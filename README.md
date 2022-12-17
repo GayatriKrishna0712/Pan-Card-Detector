@@ -41,4 +41,4 @@ Tampered Image :
 
 # What is meant by Structural Similarity Index?
 
-Structural imilarities means structure of image is compared to that image and the difference between the images in noted as a similarity index score
+Structural Similarities means structure of image is compared to that image and the difference between the images in noted as a similarity index score. 
