@@ -24,3 +24,9 @@ import requests # used for fetching data from the URLs as we are going to take i
 from skimage.metrics import structural_similarity  # used to determine the structural similarity score of the original and tamppered image
 import imutils  # helps to grab the contours
 ```
+
+
+# Dataset
+Kaagle Link: https://www.kaggle.com/code/hamedetezadi/card-tampering-detection/data
+Orginal Image : ![image](https://user-images.githubusercontent.com/93417245/208227483-41a819c2-5b11-4805-8043-7dd8d13f39c6.png)
+Tampered Image : ![image](https://user-images.githubusercontent.com/93417245/208227511-88bbd041-073a-4ca7-9464-5a1c8ecc264c.png)
