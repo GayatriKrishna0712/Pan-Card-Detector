@@ -36,3 +36,9 @@ Kaagle Link: https://www.kaggle.com/code/hamedetezadi/card-tampering-detection/d
 Tampered Image : 
 
 ![image](https://user-images.githubusercontent.com/93417245/208227511-88bbd041-073a-4ca7-9464-5a1c8ecc264c.png)
+
+
+
+# What is meant by Structural Similarity Index?
+
+Structural imilarities means structure of image is compared to that image and the difference between the images in noted as a similarity index score
