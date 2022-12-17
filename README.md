@@ -41,4 +41,4 @@ Tampered Image :
 
 # What is meant by Structural Similarity Index?
 
-Structural Similarities means structure of image is compared to that image and the difference between the images in noted as a similarity index score. 
+Structural Similarities means structure of image is compared to that image and the difference between the images in noted as a similarity index score. The Structural Similarity score I got is 0.31451839 (ie) 31%, which is pretty low.So we say that the images are not much similar to each other.. Thus, structural similarity index helps us to determine exactly where in terms of X Y coordinates the location, the image differences are.
