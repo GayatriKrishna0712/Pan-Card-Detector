@@ -46,7 +46,7 @@ Structural Similarities means structure of image is compared to that image and t
 
 
 
-#Reference
+# Reference
 1. https://www.stanleyulili.com/powershell/solution-to-running-scripts-is-disabled-on-this-system-error-on-powershell/
 2. https://www.youtube.com/watch?v=YCzoBsE1KIU
 3. https://code.visualstudio.com/docs/python/tutorial-flask
