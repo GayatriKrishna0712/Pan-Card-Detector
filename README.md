@@ -46,6 +46,3 @@ Structural Similarities means structure of image is compared to that image and t
 
 
 
-#References
-1. https://docs.opencv.org/4.x/d7/d4d/tutorial_py_thresholding.html
-2. 
